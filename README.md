@@ -1,5 +1,5 @@
 # bayesian_MCMC
- bayesian_algorithm
+ bayesian algorithm
 
  Ecological Fallacy
 1. Write a generative simulation involving a predictor variable 𝑋, an outcome variable 𝑌
